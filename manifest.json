@@ -1,0 +1,9 @@
+{
+    "name" : "Where i left ?",
+    "version" : "1.0",
+    "manifest_version" : 2,
+    "description" : "this is for the discription",
+    "browser_action" : {
+        "default_icon" : "icon.png"
+    }
+}
